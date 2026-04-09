@@ -73,7 +73,7 @@ Explain Neural Networks for beginners in a fun storytelling style.
 ---
 
 ## GitHub Repository
-[Add your repository link here]
+[[Add your repository link here](https://github.com/your-username/LangChain-Prompt-Engineering)]
 
 ---
 
